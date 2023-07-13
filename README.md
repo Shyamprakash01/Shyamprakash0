@@ -20,19 +20,6 @@
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 </div>
 
-## Github Stats
-<br/>
-<div align="center">
-<!-- <a href="https://github.com/pavithran-paviii"></a> -->
-<div display="flex" align="center">
-  <img width="48%" src="https://github.com/Shyamprakash01/Shyamprakash0/edit/main/README.md" alt="Shyamprakash0" />
-</div> 
-<br/>
-<!-- <div align="center" display="flex">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithran-paviii&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=280" height="220px"/>
-</div>
-   -->
-</div> 
 
 ## How to reach me: 📫
 <br/>
